@@ -1,0 +1,120 @@
+body
+{
+font-family: sans-serif;
+}
+
+.home
+{ 
+    display:flex;
+    margin: 50px 170px 40px 90px;
+    width: 1070px;
+}
+
+.home img 
+{
+    width: 440px;
+    height: 440px;
+ 
+}
+
+.text
+{
+    padding: 100px; 
+}
+.features 
+{
+max-width: 1180px;
+margin-bottom: 48px;
+}
+.features h2 
+{
+    margin-left: 190px;
+    margin-bottom: 16px;
+    font-size: 16;
+}
+
+
+.features ul
+{
+    margin-left: 150px;
+    display: flex;
+    list-style: none;
+    margin-bottom: 24px;
+    align-items: center;
+    gap: 100px;
+}
+.customers 
+{
+max-width: 960px;
+max-height: 223px;
+display: flex;
+margin-left:190px ;
+
+}
+.customers img
+{
+    width: 266px;
+    height: 223px;
+}
+.details
+{
+    width: 613px;
+    height: 148px;
+    margin-left:80px ;
+}
+.details p
+{
+font-style: italic;
+}
+
+.third-page
+{
+    width: 960px;
+    height: 537px;
+    margin-left: 150px;
+    margin-bottom: 80px;
+}
+
+.third-page h2
+{
+    padding: 35px;
+}
+.chairs img
+{
+    width: 266px;
+    height: 177px;
+}
+
+.chairs
+{
+    display: flex;
+    gap: 80px;
+}
+
+.chairs li
+{
+list-style: none;
+}
+
+.advantages li
+{
+    margin-bottom: 24px;
+    margin-left: -20px;
+}
+
+.chairs h3
+{
+    margin-left: 20px;
+}
+
+strong
+{
+    margin: 0 100px 80px 20px  ;
+}
+
+footer
+{
+    max-width: 960px;
+    margin-left: 180px;
+    margin-bottom: 55px;
+}
